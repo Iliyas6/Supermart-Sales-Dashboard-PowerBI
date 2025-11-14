@@ -1,6 +1,5 @@
 # Supermart-Sales-Dashboard-PowerBI
 📊 Interactive Power BI dashboard analyzing Supermart sales performance across products, categories, months, and payment modes. Includes KPIs, monthly trends, product-wise contribution, and category-wise insights for better business understanding.
-# 🛒 Supermart Sales Dashboard (Power BI)
 
 ## 📌 Project Overview
 The **Supermart Sales Dashboard** is an interactive Power BI project designed to analyze overall sales performance using a clean and modern UI. It helps business stakeholders understand sales trends, top-performing products, profit margins, category distribution, and customer buying patterns.
